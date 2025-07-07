@@ -61,3 +61,4 @@ An aggregated table lists:
 * **Name**: Mr. Jack Morgan
 * **Customer ID**: 5874620030156
 
+Screenshot: 'https://github.com/AkshayMaurya12/Groww_PnL_Dashboard/blob/main/Groww%20PnL1.pdf'
